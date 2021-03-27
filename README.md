@@ -4,7 +4,7 @@ This is a full-stack appliaction where the user can draft love notes/letters. It
 
 Link to Project: https://full-stack-love-note.herokuapp.com/
 
-![Project Image](/public/img/projectScreenshot.png)
+![Project Image](/public/img/project.png)
 
 
 ### How It's Made:
